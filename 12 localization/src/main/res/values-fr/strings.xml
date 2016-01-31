@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- AUTO-GENERATED -->
+<string name="app_name">Localisation</string>
+<string name="bottomOfCenter">Ci-dessous le centre</string>
+<string name="center">centre</string>
+<string name="greeting">Bonjour tout le monde</string>
+<string name="left">gauche</string>
+<string name="my_text">Mon texte</string>
+</resources>

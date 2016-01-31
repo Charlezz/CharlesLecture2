@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- AUTO-GENERATED -->
+<string name="app_name">Localization</string>
+<string name="bottomOfCenter">중앙아래</string>
+<string name="center">중앙</string>
+<string name="greeting">헬로월드</string>
+<string name="left">왼쪽</string>
+<string name="my_text">내 텍스트</string>
+</resources>

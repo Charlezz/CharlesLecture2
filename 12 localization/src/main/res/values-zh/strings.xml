@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- AUTO-GENERATED -->
+<string name="app_name">本地化</string>
+<string name="bottomOfCenter">下面中心</string>
+<string name="center">中央</string>
+<string name="greeting">你好世界</string>
+<string name="left">左侧</string>
+<string name="my_text">我的文字</string>
+</resources>

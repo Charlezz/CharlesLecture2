@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- AUTO-GENERATED -->
+<string name="app_name">Localization</string>
+<string name="bottomOfCenter">中央下</string>
+<string name="center">中央</string>
+<string name="greeting">ハローワールド</string>
+<string name="left">左</string>
+<string name="my_text">私のテキスト</string>
+</resources>

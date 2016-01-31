@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/09 Alarm/09 Alarm.iml" filepath="$PROJECT_DIR$/09 Alarm/09 Alarm.iml" />
       <module fileurl="file://$PROJECT_DIR$/10 Remote DB/10 Remote DB.iml" filepath="$PROJECT_DIR$/10 Remote DB/10 Remote DB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12 localization/12 localization.iml" filepath="$PROJECT_DIR$/12 localization/12 localization.iml" />
       <module fileurl="file://$PROJECT_DIR$/CharlesLecture2.iml" filepath="$PROJECT_DIR$/CharlesLecture2.iml" />
     </modules>
   </component>
